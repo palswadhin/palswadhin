@@ -1,4 +1,4 @@
-# Hi, I'm Swadhin Pal 👋
+# Welcome, I'm Swadhin Pal
 
 ### Software Security • Vulnerability Research • TinyML • Architecture • AI • LLM integrated SE • Systems & Networking • Supply Chain Security • CI/CD Pipeline • QA
 
