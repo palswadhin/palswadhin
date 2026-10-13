@@ -2,8 +2,8 @@
 
 ### Software Security • Vulnerability Research • TinyML • Architecture • AI • LLM integrated SE • Systems & Networking • Supply Chain Security • CI/CD Pipeline • QA
 
-I build, analyze, and document software-security experiments with a focus on **vulnerability research, secure software, networking, ML, LLM integration, AI analyst and practical systems engineering**.
-
+I'm a software engineer based in Dhaka, Bangladesh, with hands-on experience in PyTorch, NLP, computer vision, LLM integration, Python/FastAPI, and product-focused software engineering. I enjoy turning experiments into understandable, testable software.
+I previously worked as a Software Engineering Intern at Samsung R&D Institute Bangladesh, contributing to production application development and a GenAI proof-of-concept involving RAG, reranking, vector databases, and model experimentation.
 ---
 
 ## 🧑‍💻 About Me
